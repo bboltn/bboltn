@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Brian / @bboltn
-- 👀 I’m interested in bulding cool products with Python
+- 👀 I’m interested in building cool products with Python
 - 🌱 I’m currently learning about Crypto and NFTs
 - 📫 How to reach me brian.bolton@gmail.com
 
