@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Brian / @bboltn
-- 👀 I’m interested in building cool products with Python
-- 🌱 I’m currently learning about Crypto and NFTs
+- 👀 Building new payment systems that combine traditional payments with web3 payments
+- 🌱 I’m currently learning to be a better tech leader
 - 📫 How to reach me brian.bolton@gmail.com
 
 <!---
